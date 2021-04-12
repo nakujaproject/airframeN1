@@ -53,7 +53,7 @@ We, the airframe team, have created an onboarding checklist to assist a newcomer
 
 We have members who can assist you when joining
 
-#### Dr. Aoki Shohei
+#### Dr. Shohei Aoki
 
 He is the leader of the Nakuja project.
 
