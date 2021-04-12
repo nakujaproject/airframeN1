@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We, airframe team, have created an onboarding checklist to assit a new employee through the days, weeks and months as a new member. This document serves as a list of tasks for you to complete with corresponding timelines. Some items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how Nakuja Airframe works.
+We, the airframe team, have created an onboarding checklist to assist a newcomer through the days, weeks, and months as a new member. This document serves as a list of tasks for you to complete with corresponding timelines. Some items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how Nakuja Airframe works.
 
 ## Links and resources
 
@@ -53,16 +53,16 @@ We, airframe team, have created an onboarding checklist to assit a new employee 
 
 We have members who can assist you when joining
 
-#### Dr Aoki Sohei
+#### Dr. Aoki Shohei
 
-He is the leader for the Nakuja project.
+He is the leader of the Nakuja project.
 
-Email: info@nakujaproject.com
+Email: aoki@jkuat.ac.ke
 Twitter: @moyahima
 
 #### Destine
 
-He is the leader for the airframe subgroup
+He is the leader of the airframe subgroup.
 
 Email: dmashy@gmail.com  
 
@@ -104,7 +104,7 @@ Email: dmashy@gmail.com
 
 ## First day
 
-Once you're connected to the official communication network for airframe team, start using our internal recommended tool.
+Once you're connected to the official communication network for the airframe team, start using our internal recommended tool.
 
  <table>
   <thead>
