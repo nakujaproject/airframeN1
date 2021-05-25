@@ -1,0 +1,4 @@
+# parachutefabrication
+
+Low model rocketeers in third world countries find it is difficult to fabricate a recovery mechanism for your model rocket. In developing nations, the parachutes are easily bought from
+stores nearby whereas in developing nation it is difficult to get a sown parachute. The ideal material is ripstop nylon which is hard, nearly impossible to find. We undertook this journey by trying to build our first version of the parachute using polythene bays. We would join the polythene bags using strings and sellotape to produce a parachute. This arose another mechanical problem wherein that it would snap under heavy load. We finally decided to shift our design and make a woven parachute from nylon using to make linings of clothes. This is currently under testing and we hope to achieve better results with it.
