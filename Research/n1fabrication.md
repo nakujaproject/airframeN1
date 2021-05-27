@@ -1,3 +1,5 @@
 # N1 development
 
+## Abstract
+
 Model rocketeers in third world countries find it is difficult to fabricate sub systems of a model rocket. This is due to the unavailability of materials and skills for fabrication. For our N1 model rocket, we encountered some obstacles but we were able to fabricate our model rocket of up to 1m. For our fuselage, we fabricated using additive manufacturing with tough PLA as our material of choice. This was due to the availability and convenience of additive manufacturing. For our Parachute, we built our first version of the parachute using polythene bags. We would join the polythene bags using strings and sellotape to produce a parachute. This arose another mechanical problem wherein that it would snap under heavy load. We finally decided to shift our design and make a woven parachute from nylon using to make linings of clothes. This is currently under testing and we hope to achieve better results with it. 
