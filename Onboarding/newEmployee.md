@@ -143,7 +143,7 @@ Once you're connected to the official communication network for the airframe tea
   <tr>
     <td scope="row">5</td>
     <td>&#9744;</td>
-    <td>Connect to Airframe communication channels</td>
+    <td>Connect to Airframe communication channels, Slack, Whatsapp, Scrapbox and Blogpost</td>
     <td>Info will be sent to you in email week before your first week</td>
   </tr>
 
@@ -186,7 +186,7 @@ Once you're connected to the official communication network for the airframe tea
   <tr>
     <td scope="row">4</td>
     <td>&#9744;</td>
-    <td>Make sure your Slack avatar and Google avatar contain a picture</td>
+    <td>Make sure your Slack avatar and Google avatar contain a picture. </td>
     <td>This information is publicly available</td>
   </tr>
  </table>
@@ -231,13 +231,13 @@ Once you're connected to the official communication network for the airframe tea
   <tr>
     <td scope="row">5</td>
     <td>&#9744;</td>
-    <td>Write your bio and submit a picture for the nakujaproject website</td>
+    <td>Write your bio and submit a picture for the nakujaproject website <a href="https://github.com/nakujaproject/nakujaproject.github.io">here</a></td>
     <td><a href="https://nakujaproject.com">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">6</td>
     <td>&#9744;</td>
-    <td>Show your profile activity</td>
+    <td>Github members enable GitHub to show your profile activity</td>
     <td><a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/showing-an-overview-of-your-activity-on-your-profile">Instructions</a></td>
   </tr>
  </table>
